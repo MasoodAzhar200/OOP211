@@ -1,0 +1,6 @@
+NAME: Muhammad Masood Azhar
+STUDENT NUMBER: 149328221
+SECTION: NEE
+
+While I was completing this workshop, I got a comprehensive understanding of very important and key concepts to C++ programming. I have learned alot about reading CSV files and storing them into arrays.I also learned alot about dynamic memory allocation for data structures.While doing the workshops(both part1 and part2) I practiced alot of conditional statements and used alot of loops to make my codes blocks. I also explored sorting algoriths, Although i did not have first hand practice on these new functions, but I explored them in this workshop. I faced alot of problems while doing this workshop and it was mostly because of segmentation and and inconsistent data formats I was using. Avoiding the memory leaks was something that i had to keep very close attention to. Something else I was struggling with was the user input. I had to keep making alot of changes to the program to insure it that was user friendly and giving us the correct output. I also had to include alot of comments throughout the code so that I do not loose track of the functions and remember which function does what just In case I needed to make any changes. This was very good practise as everything in the program remains very clear and easy to understand.
+
